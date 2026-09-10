@@ -1,4 +1,3 @@
-![banner](https://github.com/rokpell/rokpell/blob/main/imgs/banner.jpg)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.rokpell" />
 <img src="https://komarev.com/ghpvc/?username=rokpell&style=flat-square&color=blue" alt=""/>
 
@@ -52,7 +51,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/rokpell/rokpell/cb581a350c1f49e116690738dd1b5f7325285896/rokpell.svg" alt="Contributions"/>
+    <img src="https://github.com/rokpell/rokpell/rokpell.svg" alt="Contributions"/>
   </div>
   <hr/>
 
