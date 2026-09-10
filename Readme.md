@@ -51,7 +51,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <div align="center">
-    <img src="https://github.com/rokpell/rokpell/rokpell.svg" alt="Contributions"/>
+    <img src="https://github.com/rokpell/rokpell/blob/main/rokpell.svg" alt="Contributions"/>
   </div>
   <hr/>
 
