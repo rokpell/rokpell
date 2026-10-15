@@ -3,9 +3,9 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=5c4c73&lines=Hi+There!+👋;+I'm+Rokpell!" />
-</h1 align="center">
+</h1 >
 
-# I'm a AI & Full-Stack & Ecommerce Developer 👋
+<h1 align="center" style="color: #7a9be4"> 👋 I'm a AI & Full-Stack & Ecommerce Developer 👋</h1>
 
 I'm a **Full-Stack Developer and E-commerce Developer** passionate about building modern web applications, scalable backend systems, and user-friendly online stores.
 
