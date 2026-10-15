@@ -5,33 +5,52 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=5c4c73&lines=Hi+There!+👋;+I'm+Rokpell!" />
 </h1>
 
-<h3 align="center">A Shopify Expert, Web Developer and Software Developer from Japen</h3>
+# Hi, I'm a AI & Full-Stack Developer 👋
 
-<br/>
+I'm a **Full-Stack Developer and E-commerce Developer** passionate about building modern web applications, scalable backend systems, and user-friendly online stores.
 
-<div align="center">
+I specialize in **Python, TypeScript, React, Vue.js, Node.js, Shopify, and WordPress**, helping turn ideas into practical digital solutions. I'm also expanding my knowledge of **AI training and evaluation**, with an interest in improving AI models through coding tasks, testing, debugging, and software development.
 
-🔭 I’m currently working on **an innovative mobile app**
+### 🚀 What I Do
 
-🌱 I’m diving deep into **Ruby, MERN, and C**
+- 💻 **Full-Stack Development:** Building web applications, REST APIs, and backend services.
+- 🛍️ **E-commerce Development:** Creating and customizing Shopify stores and WordPress websites.
+- 🎨 **Frontend Development:** Developing responsive, intuitive interfaces with React and Vue.js.
+- ⚙️ **Backend Development:** Building application logic and APIs with Python and Node.js.
+- 🤖 **AI Training & Evaluation:** Learning how to evaluate AI-generated code, create reliable tests, and improve model performance.
 
-💬 Feel free to ask me about **Python, Java, or Ruby!**
+### 🛠️ Tech Stack
+
+**Languages:** Python · TypeScript · JavaScript
+
+**Frontend:** React · Vue.js · HTML · CSS
+
+**Backend:** Node.js · REST APIs
+
+**E-commerce & CMS:** Shopify · WordPress
+
+**Current Focus:** AI training · Code evaluation · Automated testing
+
+### 🎯 Current Goals
+
+- Strengthen my full-stack and e-commerce development skills.
+- Explore AI training, coding evaluations, and software quality.
+- Contribute to open-source projects and collaborate with developers.
+- Build reliable, maintainable, and practical software solutions.
+
+### 🤝 Let's Connect
+
+I'm always open to interesting projects, open-source collaboration, and opportunities to learn and grow as a developer.
+
+**Let's build something useful together!** 🚀
+
+Telegram: @rokpel
 
  </div>
 
 <br/>
 
-<div align="center" id="badges">
-  <a href="https://www.youtube.com/channel/UCBvJDLAaRQ80NCJIASY51bg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/rokpell_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://rokpell.github.io/">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/> 
-  </a>
-</div>
+
 
  <hr/>
  
