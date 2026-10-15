@@ -3,10 +3,10 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=5c4c73&lines=Hi+There!+👋;+I'm+Rokpell!" />
-</h1>
-<span align="center">
+</h1 align="center">
+
 # I'm a AI & Full-Stack & Ecommerce Developer 👋
-</span>
+
 I'm a **Full-Stack Developer and E-commerce Developer** passionate about building modern web applications, scalable backend systems, and user-friendly online stores.
 
 I specialize in **Python, TypeScript, React, Vue.js, Node.js, Shopify, and WordPress**, helping turn ideas into practical digital solutions. I'm also expanding my knowledge of **AI training and evaluation**, with an interest in improving AI models through coding tasks, testing, debugging, and software development.
